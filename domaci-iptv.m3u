@@ -41,3 +41,9 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x654gen
 #EXTINF:-1 tvg-id="n1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="",N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="",CP24 HD ◉
+http://bestott.net:80/56165534481D66A/r96fioyEld/30497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="",CP24 HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/165222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="",CP24 (Backup)
+http://ingrid.ltd:25461/jfso/BXVhhKh5/67384?checkedby:iptvcat.com
