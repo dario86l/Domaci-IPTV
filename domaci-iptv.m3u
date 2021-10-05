@@ -33,9 +33,11 @@ https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x694rtu
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="BHRT.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/F8jTl1o.png" group-title="",BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="n1.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 BIH (576p)
+#EXTINF:-1 tvg-id="n1.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="",N1 BIH (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 tvg-id="RTVHB.com" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/EE8C8rR.png" group-title="",RTV HB (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="",Z1
-https://iptv.dc-team.com/query?url=http://www.z1tv.hr/hr/livestream/
+#EXTINF:-1 tvg-id="OTV.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.otv.hr/wp-content/uploads/2020/10/cropped-otv_plavi-logo_PNG_kocka-1-192x192.png" group-title="",OTV (720p) [Not 24/7]
+http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x654gen
+#EXTINF:-1 tvg-id="n1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="",N1 HRVATSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
