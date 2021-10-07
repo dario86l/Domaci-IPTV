@@ -43,6 +43,10 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 http://free.fullspeed.tv/query?url=https://www.dailymotion.com/video/x654gen
 #EXTINF:-1 tvg-id="n1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="",N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/S75GJym.png" group-title="",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/QMQqXgS.jpg" group-title="",Televizija Aurora
+http://85.94.81.190:8844/sdi/aurora.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="",HRT 1 [720[a]
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="",HRT 1 [720[b]
