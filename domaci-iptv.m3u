@@ -33,7 +33,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://stream-11.ix7.dailymotion.com/sec(bgTgeW_tN40eeFxrVpN5vwSYO0zYIKH0C3frYJhSqEQ)/dm/3/x694rtu/s/live-1.m3u8
 #EXTINF:-1, N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-
 #EXTINF:-1, Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1, Televizija Aurora
