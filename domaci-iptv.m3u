@@ -59,3 +59,9 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 https://stream-06.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDLTQSiZUxu4wpprwADeaMbU)/dm/3/x670ug8/s/live-1.m3u8
 #EXTINF:-1, RTV HB
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1, ZDF GER
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/453c8e771a04f2e06e1b2a787d1a860f/5/5.m3u8
+#EXTINF:-1, SPORT GER
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1, ARD GER
+https://mcdn.daserste.de/daserste/int/master_3628.m3u8
