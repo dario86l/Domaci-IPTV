@@ -59,3 +59,5 @@ https://stream-06.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDLTQSiZUxu4wpprwAD
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1, ARD GER
 https://mcdn.daserste.de/daserste/int/master_3628.m3u8
+#EXTINF:-1, CRO TV
+http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
