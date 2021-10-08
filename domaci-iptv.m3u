@@ -33,6 +33,8 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://stream-11.ix7.dailymotion.com/sec(bgTgeW_tN40eeFxrVpN5vwSYO0zYIKH0C3frYJhSqEQ)/dm/3/x694rtu/s/live-1.m3u8
 #EXTINF:-1, N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:1, TV Osijek
+http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1, Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1, Televizija Aurora
@@ -59,3 +61,7 @@ https://stream-06.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDLTQSiZUxu4wpprwAD
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1, ARD GER
 https://mcdn.daserste.de/daserste/int/master_3628.m3u8
+#EXTINF:1, RTL LIVING
+http://66.70.129.43:8080/RTLLiving/index.m3u8
+#EXTINF:-1,DomaTV
+http://66.70.129.43:8080/Domatv/index.m3u8
