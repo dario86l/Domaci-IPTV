@@ -67,3 +67,9 @@ http://stream2.grandma.fit/fs2.m3u8
 http://84.22.33.214/ArenaSport2/mono.m3u8
 #EXTINF:-1,ZDF GER
 https://s6.hopslan.com/zdff/tracks-v1a1/mono.m3u8?token=987ee8652043526755919cf3c2d745192b82cfef-f56a60dd18308761e89a8b031bd1d865-1633825548-1633814748
+#EXTINF:-1,RTL GER
+https://s8.hopslan.com/rtl11/tracks-v1a1/mono.m3u8?token=91b910a320be578d827c57808168c989ebbfe65b-dbe7bc64b311a676a3ed9fa5f8419ddc-1633827157-1633816357
+#EXTINF:-1,RTL 2 GER
+https://s6.hopslan.com/rtl2b/tracks-v1a1/mono.m3u8?token=b4abce9620653bf1d457f2435bbf1ac723c929b1-294d11f39ffccea8e35db485e2b849f3-1633827307-1633816507
+#EXTINF:-1,VOX GER
+https://s6.hopslan.com/voxb/tracks-v1a1/mono.m3u8?token=af235096ae308e7edebb55f26dd2acb96f403067-51971af443f8d67317a96e668c97b6df-1633827389-1633816589
