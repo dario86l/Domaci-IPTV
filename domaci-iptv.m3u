@@ -66,4 +66,6 @@ http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1, ARENA SPORT 2
 http://84.22.33.214/ArenaSport2/mono.m3u8
 #EXTINF:-1, FIRST MUSIC CHANNEL HD
-https://list.iptvcat.com/my_list/s/5b9937abeedca4f42c8678eeef718364.m3u8
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1, SPORT RUS
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
