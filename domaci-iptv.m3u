@@ -61,9 +61,11 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 https://mcdn.daserste.de/daserste/int/master_3628.m3u8
 #EXTINF:-1, CRO TV
 http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
-#EXTINF:-1,ESPN SPORT
+#EXTINF:-1, ESPN SPORT
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1,ARENA SPORT 2
+#EXTINF:-1, ARENA SPORT 2
 http://84.22.33.214/ArenaSport2/mono.m3u8
-#EXTINF:-1,RTL KOCKICA
-https://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(RTL_Kockica)/index.m3u8
+#EXTINF:-1, SPORT TV 1
+https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=Yd4sqRF6VftcwL5j4AEtfg&e=1633897478
+#EXTINF:-1, SK 5
+https://b.jazzy.to:30443/live/wiz11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMSAyOjMwOjMyIFBNJmhhc2hfdmFsdWU9RTJBcFA4YVVlRVdMc1Fac1ZDUkZxQT09JnZhbGlkbWludXRlcz0xMjA=
