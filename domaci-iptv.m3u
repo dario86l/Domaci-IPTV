@@ -20,7 +20,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1, RTL [720[b]
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1, TV Nova (720p)
-https://stream-02.dc3.dailymotion.com/sec(b2ly56vqV33i3jvQTS0zLGuPEFgxNhZYZfEE8Y0B_Jw)/dm/3/x654gen/s/live-1.m3u8
+https://stream-02.ix7.dailymotion.com/sec(bgTgeW_tN40eeFxrVpN5v0NCtSifrrzn1yDC1wCgk5I)/dm/3/x694rtu/s/live-1.m3u8
 #EXTINF:-1, Al Jazeera Balkans (1080p)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1, BHRT (720p) [Geo-blocked]
@@ -30,7 +30,7 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&
 #EXTINF:-1, RTV HB (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1, OTV (720p)
-https://stream-11.ix7.dailymotion.com/sec(bgTgeW_tN40eeFxrVpN5vwSYO0zYIKH0C3frYJhSqEQ)/dm/3/x694rtu/s/live-1.m3u8
+https://stream-02.dc3.dailymotion.com/sec(b2ly56vqV33i3jvQTS0zLGuPEFgxNhZYZfEE8Y0B_Jw)/dm/3/x654gen/s/live-1.m3u8
 #EXTINF:-1, N1 HRVATSKA (576p)
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1, Slavonska TV
