@@ -83,3 +83,89 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-id="TVCGMNE.me" group-title="Montenegro",TVCG MNE
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU100:OBN HD
+http://abcnew.site:8880/1mkk010001/65957198/49226
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU098:NOVA TV
+http://abcnew.site:8880/1mkk010001/65957198/49228
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU102:PINK 1 TV
+http://abcnew.site:8880/1mkk010001/65957198/49224
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU103:PINK 2 TV
+http://abcnew.site:8880/1mkk010001/65957198/49223
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU104:PINK 3 TV
+http://abcnew.site:8880/1mkk010001/65957198/49222
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU106:Pink Action
+http://abcnew.site:8880/1mkk010001/65957198/49220
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU107:Pink Comedy
+http://abcnew.site:8880/1mkk010001/65957198/49219
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU109:Pink Crime & Mistery
+http://abcnew.site:8880/1mkk010001/65957198/49217
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU110:Pink Extra
+http://abcnew.site:8880/1mkk010001/65957198/49216
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU112:Pink Folk
+http://abcnew.site:8880/1mkk010001/65957198/49214
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU113:Pink Folk 2
+http://abcnew.site:8880/1mkk010001/65957198/49213
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU114:Pink Hits
+http://abcnew.site:8880/1mkk010001/65957198/49212
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU115:Pink Hits 2
+http://abcnew.site:8880/1mkk010001/65957198/49211
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU116:Pink Horror
+http://abcnew.site:8880/1mkk010001/65957198/49210
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU117:Pink Kids
+http://abcnew.site:8880/1mkk010001/65957198/49209
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU118:Pink Koncert
+http://abcnew.site:8880/1mkk010001/65957198/49208
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU119:Pink Kuvar
+http://abcnew.site:8880/1mkk010001/65957198/49207
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU120:Pink M
+http://abcnew.site:8880/1mkk010001/65957198/49206
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU121:FilmBox Extra
+http://abcnew.site:8880/1mkk010001/65957198/49205
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU122:Pink Movies
+http://abcnew.site:8880/1mkk010001/65957198/49204
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU125:Pink Pedia
+http://abcnew.site:8880/1mkk010001/65957198/49201
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU126:Pink Plus
+http://abcnew.site:8880/1mkk010001/65957198/49200
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU127:Pink Premium
+http://abcnew.site:8880/1mkk010001/65957198/49199
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU128:Pink Reality
+http://abcnew.site:8880/1mkk010001/65957198/49198
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU129:Pink Romance
+http://abcnew.site:8880/1mkk010001/65957198/49197
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU130:Pink Sci-Fi & Fantasy
+http://abcnew.site:8880/1mkk010001/65957198/49196
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU131:Pink Serije
+http://abcnew.site:8880/1mkk010001/65957198/49195
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU132:Pink Show
+http://abcnew.site:8880/1mkk010001/65957198/49194
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU133:Pink Soap
+http://abcnew.site:8880/1mkk010001/65957198/49193
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU134:Pink Super Kids
+http://abcnew.site:8880/1mkk010001/65957198/49192
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU135:Pink Thriller
+http://abcnew.site:8880/1mkk010001/65957198/49191
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU136:Pink Western
+http://abcnew.site:8880/1mkk010001/65957198/49190
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU137:Pink World
+http://abcnew.site:8880/1mkk010001/65957198/49189
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU138:Pink Zabava
+http://abcnew.site:8880/1mkk010001/65957198/49188
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU139:Maxcro Select 6
+http://abcnew.site:8880/1mkk010001/65957198/49187
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU140:Maxcro Select 7
+http://abcnew.site:8880/1mkk010001/65957198/49186
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU141:Maxcro Select 8
+http://abcnew.site:8880/1mkk010001/65957198/49185
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR017:N1
+http://abcnew.site:8880/1mkk010001/65957198/46241
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR018:HRT 1
+http://abcnew.site:8880/1mkk010001/65957198/46240
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR019:HRT 2
+http://abcnew.site:8880/1mkk010001/65957198/46239
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR020:HRT 3
+http://abcnew.site:8880/1mkk010001/65957198/46238
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR021:HRT 4
+http://abcnew.site:8880/1mkk010001/65957198/46237
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH017:FTV
+http://abcnew.site:8880/1mkk010001/65957198/60959
