@@ -83,89 +83,169 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-id="TVCGMNE.me" group-title="Montenegro",TVCG MNE
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU100:OBN HD
-http://abcnew.site:8880/1mkk010001/65957198/49226
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU098:NOVA TV
-http://abcnew.site:8880/1mkk010001/65957198/49228
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU102:PINK 1 TV
-http://abcnew.site:8880/1mkk010001/65957198/49224
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU103:PINK 2 TV
-http://abcnew.site:8880/1mkk010001/65957198/49223
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU104:PINK 3 TV
-http://abcnew.site:8880/1mkk010001/65957198/49222
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU106:Pink Action
-http://abcnew.site:8880/1mkk010001/65957198/49220
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU107:Pink Comedy
-http://abcnew.site:8880/1mkk010001/65957198/49219
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU109:Pink Crime & Mistery
-http://abcnew.site:8880/1mkk010001/65957198/49217
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU110:Pink Extra
-http://abcnew.site:8880/1mkk010001/65957198/49216
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU112:Pink Folk
-http://abcnew.site:8880/1mkk010001/65957198/49214
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU113:Pink Folk 2
-http://abcnew.site:8880/1mkk010001/65957198/49213
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU114:Pink Hits
-http://abcnew.site:8880/1mkk010001/65957198/49212
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU115:Pink Hits 2
-http://abcnew.site:8880/1mkk010001/65957198/49211
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU116:Pink Horror
-http://abcnew.site:8880/1mkk010001/65957198/49210
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU117:Pink Kids
-http://abcnew.site:8880/1mkk010001/65957198/49209
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU118:Pink Koncert
-http://abcnew.site:8880/1mkk010001/65957198/49208
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU119:Pink Kuvar
-http://abcnew.site:8880/1mkk010001/65957198/49207
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU120:Pink M
-http://abcnew.site:8880/1mkk010001/65957198/49206
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU121:FilmBox Extra
-http://abcnew.site:8880/1mkk010001/65957198/49205
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU122:Pink Movies
-http://abcnew.site:8880/1mkk010001/65957198/49204
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU125:Pink Pedia
-http://abcnew.site:8880/1mkk010001/65957198/49201
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU126:Pink Plus
-http://abcnew.site:8880/1mkk010001/65957198/49200
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU127:Pink Premium
-http://abcnew.site:8880/1mkk010001/65957198/49199
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU128:Pink Reality
-http://abcnew.site:8880/1mkk010001/65957198/49198
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU129:Pink Romance
-http://abcnew.site:8880/1mkk010001/65957198/49197
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU130:Pink Sci-Fi & Fantasy
-http://abcnew.site:8880/1mkk010001/65957198/49196
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU131:Pink Serije
-http://abcnew.site:8880/1mkk010001/65957198/49195
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU132:Pink Show
-http://abcnew.site:8880/1mkk010001/65957198/49194
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU133:Pink Soap
-http://abcnew.site:8880/1mkk010001/65957198/49193
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU134:Pink Super Kids
-http://abcnew.site:8880/1mkk010001/65957198/49192
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU135:Pink Thriller
-http://abcnew.site:8880/1mkk010001/65957198/49191
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU136:Pink Western
-http://abcnew.site:8880/1mkk010001/65957198/49190
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU137:Pink World
-http://abcnew.site:8880/1mkk010001/65957198/49189
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU138:Pink Zabava
-http://abcnew.site:8880/1mkk010001/65957198/49188
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU139:Maxcro Select 6
-http://abcnew.site:8880/1mkk010001/65957198/49187
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU140:Maxcro Select 7
-http://abcnew.site:8880/1mkk010001/65957198/49186
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", YU141:Maxcro Select 8
-http://abcnew.site:8880/1mkk010001/65957198/49185
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR017:N1
-http://abcnew.site:8880/1mkk010001/65957198/46241
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR018:HRT 1
-http://abcnew.site:8880/1mkk010001/65957198/46240
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR019:HRT 2
-http://abcnew.site:8880/1mkk010001/65957198/46239
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR020:HRT 3
-http://abcnew.site:8880/1mkk010001/65957198/46238
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR021:HRT 4
-http://abcnew.site:8880/1mkk010001/65957198/46237
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH017:FTV
-http://abcnew.site:8880/1mkk010001/65957198/60959
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/htv1-logo.png" group-title="Hrvatska" tvg-id="1261" tvg-name="1261", HRT 1 Backup_118711
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/118711
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/htv1-logo.png" group-title="Hrvatska" tvg-id="1261" tvg-name="1261", HRT 1 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4578
+#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/18988b7176f2420d9584da7f2b1e2da4.png" group-title="Hrvatska" tvg-id="1261" tvg-name="1261", HRT 1
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1261
+#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska" tvg-id="1260" tvg-name="1260", HRT 2
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1260
+#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/e76a1ffc86e54cb6adc0d9b19c490712.png" group-title="Hrvatska" tvg-id="1260" tvg-name="1260", HRT 2 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4579
+#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/e62ea560badf4409bdba35cceb40e3b8.png" group-title="Hrvatska" tvg-id="1259" tvg-name="1259", HRT 3
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1259
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="Hrvatska" tvg-id="1259" tvg-name="1259", HRT 3 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/5724
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRT4-logo.png" group-title="Hrvatska" tvg-id="1258" tvg-name="1258", HRT 4
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1258
+#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/103.hr.png" group-title="Hrvatska" tvg-id="1258" tvg-name="1258", HRT 4 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/5725
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/HRTint_logo.png" group-title="Hrvatska" tvg-id="1257" tvg-name="1257", HRT Int.
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1257
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska" tvg-id="1256" tvg-name="1256", Nova Tv
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1256
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska" tvg-id="1256" tvg-name="1256", Nova Tv Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4580
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="Hrvatska" tvg-id="1256" tvg-name="1256", Nova Tv HD
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4865
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_Cinema_logo.png" group-title="Hrvatska" tvg-id="34191" tvg-name="34191", Nova Cinema
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34191
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Nova_Family_logo.png" group-title="Hrvatska" tvg-id="33006" tvg-name="33006", Nova Family ᴴᴰ
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/33006
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska" tvg-id="1255" tvg-name="1255", Doma Tv
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1255
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska" tvg-id="1255" tvg-name="1255", Doma Tv Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4584
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/doma.png" group-title="Hrvatska" tvg-id="1255" tvg-name="1255", Doma Tv HD
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4866
+#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/107.hr.png" group-title="Hrvatska" tvg-id="4581" tvg-name="4581", RTL HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4581
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL.png" group-title="Hrvatska" tvg-id="https://caffelink:linkcaffe01@epg.netsolutionpro.com/global/Caf" tvg-name="https://caffelink:linkcaffe01@epg.netsolutionpro.com/global/Caf", RTL Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53655
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska" tvg-id="1252" tvg-name="1252", RTL 2
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1252
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL2-logo.png" group-title="Hrvatska" tvg-id="1252" tvg-name="1252", RTL 2 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4585
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL_Adria_2020.png" group-title="Hrvatska" tvg-id="7679" tvg-name="7679", RTL Adria
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/7679
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska" tvg-id="1251" tvg-name="1251", RTL Crime
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1251
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="Hrvatska" tvg-id="33016" tvg-name="33016", RTL Croatia World
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/33016
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska" tvg-id="1250" tvg-name="1250", RTL Living
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1250
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska" tvg-id="1249" tvg-name="1249", RTL Passion
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1249
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/n1-logo.png" group-title="Hrvatska" tvg-id="4538" tvg-name="4538", N1 (HR)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4538
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/4/img/kanali-logo/UNA_TV_HR_logo.png" group-title="Hrvatska" tvg-id="116978" tvg-name="116978", UNA TV Hr
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/116978
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png" group-title="Hrvatska" tvg-id="1245" tvg-name="1245", Z1
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1245
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/LaudatoTV_logo.png" group-title="Hrvatska" tvg-id="3635" tvg-name="3635", Laudato TV (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/3635
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/ostv-logo.png" group-title="Hrvatska" tvg-id="1248" tvg-name="1248", Osjecka TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1248
+#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/118.hr.png" group-title="Hrvatska" tvg-id="1247" tvg-name="1247", Slavonska TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1247
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="Hrvatska" tvg-id="1246" tvg-name="1246", Vinkovacka TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1246
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x60/10/img/kanali-logo/tv-jadran-logo.png" group-title="Hrvatska" tvg-id="6868" tvg-name="6868", Tv Jadran
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/6868
+#EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska" tvg-id="6870" tvg-name="6870", Poljoprivredna TV (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/6870
+#EXTINF:-1 tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska" tvg-id="6873" tvg-name="6873", Jabuka TV (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/6873
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Trend_TV_HR_logo.png" group-title="Hrvatska" tvg-id="34159" tvg-name="34159", Trend TV (TEST)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34159
+#EXTINF:-1 tvg-logo="https://d2wk81qbuk09ji.cloudfront.net/37741/public/imagegallery/original/ztv-weblogo-muvi_hr_1551616358.png" group-title="Hrvatska" tvg-id="34160" tvg-name="34160", Zdrava TV (TEST)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34160
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/vtv-logo.png" group-title="Hrvatska" tvg-id="34161" tvg-name="34161", VTV Varazdin (TEST)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34161
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/RTB_TV_HR_logo.png" group-title="Hrvatska" tvg-id="1244" tvg-name="1244", Banovina TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1244
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/LibertasTV.png" group-title="Hrvatska" tvg-id="6872" tvg-name="6872", Libertas TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/6872
+#EXTINF:-1 tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport" tvg-id="53547" tvg-name="53547", MAX Sport 1 (HR)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53547
+#EXTINF:-1 tvg-logo="http://caffe.link:25461/images/0e44b65b8862d14134bcb8c89b4a72f4.png" group-title="Sport" tvg-id="53550" tvg-name="53550", MAX SPORT 1  Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53550
+#EXTINF:-1 tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport" tvg-id="53548" tvg-name="53548", MAX Sport 2
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53548
+#EXTINF:-1 tvg-logo="http://caffe.link:25461/images/f3836dad5e8f725be975f402819e8127.png" group-title="Sport" tvg-id="53551" tvg-name="53551", MAX SPORT 2 Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53551
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/arena_esport_logo.png" group-title="Sport" tvg-id="53701" tvg-name="53701", Arena E Sport
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/53701
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="Sport" tvg-id="34155" tvg-name="34155", Arena Fight
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34155
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_1x2_RS_logo.png" group-title="Sport" tvg-id="54037" tvg-name="54037", Arena Sport 1x2
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/54037
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="Sport" tvg-id="1520" tvg-name="1520", Arena Sport 1 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1520
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="Sport" tvg-id="1519" tvg-name="1519", Arena Sport 2 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1519
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="Sport" tvg-id="1518" tvg-name="1518", Arena Sport 3 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1518
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="Sport" tvg-id="1517" tvg-name="1517", Arena Sport 4 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1517
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="Sport" tvg-id="1516" tvg-name="1516", Arena Sport 5 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1516
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="Sport" tvg-id="1510" tvg-name="1510", Arena Sport 6 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1510
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="Sport" tvg-id="15733" tvg-name="15733", Arena Sport 7 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/15733
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="Sport" tvg-id="15734" tvg-name="15734", Arena Sport 8 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/15734
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport" tvg-id="15735" tvg-name="15735", Arena Sport 9 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/15735
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport" tvg-id="15736" tvg-name="15736", Arena Sport 10 HR
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/15736
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport" tvg-id="7688" tvg-name="7688", Arena sport 1 BiH
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/7688
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_BiH_BA_logo.png" group-title="Sport" tvg-id="114431" tvg-name="114431", Arena Sport 2 BiH (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/114431
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Arena_Sport_3_BiH_BA_logo.png" group-title="Sport" tvg-id="114432" tvg-name="114432", Arena Sport 3 BiH (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/114432
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_BiH_BA_logo.png" group-title="Sport" tvg-id="114433" tvg-name="114433", Arena Sport Premium 1 BiH (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/114433
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_Premium_BiH_BA_logo.png" group-title="Sport" tvg-id="114434" tvg-name="114434", Arena Sport Premium 2 BiH (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/114434
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Sport" tvg-id="114435" tvg-name="114435", Arena Sport Premium 3 BiH (Test)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/114435
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Sport" tvg-id="34303" tvg-name="34303", Arena Sport Premium 1 (SR)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34303
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="Sport" tvg-id="116922" tvg-name="116922", Arena Sport Premium 1 (SR) Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/116922
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="Sport" tvg-id="34304" tvg-name="34304", Arena Sport Premium 2 (SR)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34304
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="Sport" tvg-id="34305" tvg-name="34305", Arena Sport Premium 3 (SR)
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34305
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="Sport" tvg-id="1515" tvg-name="1515", Arena Sport 1
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1515
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="Sport" tvg-id="1514" tvg-name="1514", Arena Sport 2
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1514
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="Sport" tvg-id="1513" tvg-name="1513", Arena Sport 3
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1513
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="Sport" tvg-id="1512" tvg-name="1512", Arena Sport 4
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1512
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="Sport" tvg-id="1511" tvg-name="1511", Arena Sport 5
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1511
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="Sport" tvg-id="56670" tvg-name="56670", Arena Sport 6
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/56670
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_RS_logo.png" group-title="Sport" tvg-id="56671" tvg-name="56671", Arena Sport 7
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/56671
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_RS_logo.png" group-title="Sport" tvg-id="56672" tvg-name="56672", Arena Sport 8
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/56672
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="Sport" tvg-id="118586" tvg-name="118586", Arena Sport 9
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/118586
+#EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="Sport" tvg-id="118585" tvg-name="118585", Arena Sport 10
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/118585
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/nova_sport.png" group-title="Sport" tvg-id="34147" tvg-name="34147", Nova TV sport
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/34147
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/FTV_BA_logo.png" group-title="BiH" tvg-id="1338" tvg-name="1338", Federalna TV
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1338
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/OBN-logo.png" group-title="BiH" tvg-id="1329" tvg-name="1329", OBN
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/1329
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/OBN-logo.png" group-title="BiH" tvg-id="1328" tvg-name="1328", OBN Backup
+http://asterix-iptv.club:25461/24VeljkoMaricMaki/qnLBAJfJqQGf/4590
